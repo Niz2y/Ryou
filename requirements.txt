@@ -1,0 +1,10 @@
+json
+requests
+os
+aiohttp
+asyncio
+datetime
+random
+flask
+threading
+nextcord
